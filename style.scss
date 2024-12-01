@@ -1,0 +1,18 @@
+body{
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: mediumseagreen;
+}
+
+#yellowDiv{ 
+    padding: 150px;
+    background-color: rgb(255, 148, 61);
+    border-radius: 100%;
+    #blackDiv{
+        border-radius: 100%;
+        background-color: black;
+        padding: 120px;
+    }
+}
